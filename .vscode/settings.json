@@ -1,0 +1,11 @@
+{
+  "cmake.configureSettings": {
+    // NOTE: change `C:/Applications/AAA_libs/vcpkg` to your vcpkg path
+    "CMAKE_TOOLCHAIN_FILE": "C:/Applications/AAA_libs/vcpkg/scripts/buildsystems/vcpkg.cmake"
+  },
+  "files.associations": {
+    "*.ejs": "html",
+    "iostream": "cpp",
+    "string": "cpp"
+  }
+}
