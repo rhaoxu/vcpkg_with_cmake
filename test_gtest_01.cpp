@@ -1,3 +1,5 @@
+// NOTE: official examples
+// https://github.com/google/googletest/tree/main/googletest/samples
 // g++ gtest_file.cpp -o gtest_file -lgtest
 
 #include <iostream>
