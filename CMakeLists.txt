@@ -40,6 +40,8 @@ set(FMT_LIBRARIES fmt::fmt)
 set(GFLAGS_LIBRARIES gflags::gflags)
 
 
+# NOTE: if you don't want to set target_link_libraries of each file, you can use the following
+# link_directories(${FMT_LIBRARIES})
 
 
 
